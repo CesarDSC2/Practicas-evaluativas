@@ -1,0 +1,7 @@
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\5.-Primera ocurrencia\5.-Primera ocurrencia\bin\Debug\5.-Primera ocurrencia.exe.config
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\5.-Primera ocurrencia\5.-Primera ocurrencia\bin\Debug\5.-Primera ocurrencia.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\5.-Primera ocurrencia\5.-Primera ocurrencia\bin\Debug\5.-Primera ocurrencia.pdb
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\5.-Primera ocurrencia\5.-Primera ocurrencia\obj\Debug\5.-Primera ocurrencia.csprojResolveAssemblyReference.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\5.-Primera ocurrencia\5.-Primera ocurrencia\obj\Debug\5.-Primera ocurrencia.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\5.-Primera ocurrencia\5.-Primera ocurrencia\obj\Debug\5.-Primera ocurrencia.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\5.-Primera ocurrencia\5.-Primera ocurrencia\obj\Debug\5.-Primera ocurrencia.pdb

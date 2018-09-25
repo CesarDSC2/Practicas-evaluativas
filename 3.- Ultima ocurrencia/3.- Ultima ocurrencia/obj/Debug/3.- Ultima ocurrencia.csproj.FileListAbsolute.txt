@@ -1,0 +1,7 @@
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\3.- Ultima ocurrencia\3.- Ultima ocurrencia\bin\Debug\3.- Ultima ocurrencia.exe.config
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\3.- Ultima ocurrencia\3.- Ultima ocurrencia\bin\Debug\3.- Ultima ocurrencia.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\3.- Ultima ocurrencia\3.- Ultima ocurrencia\bin\Debug\3.- Ultima ocurrencia.pdb
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\3.- Ultima ocurrencia\3.- Ultima ocurrencia\obj\Debug\3.- Ultima ocurrencia.csprojResolveAssemblyReference.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\3.- Ultima ocurrencia\3.- Ultima ocurrencia\obj\Debug\3.- Ultima ocurrencia.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\3.- Ultima ocurrencia\3.- Ultima ocurrencia\obj\Debug\3.- Ultima ocurrencia.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\3.- Ultima ocurrencia\3.- Ultima ocurrencia\obj\Debug\3.- Ultima ocurrencia.pdb

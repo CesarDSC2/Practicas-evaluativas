@@ -1,0 +1,14 @@
+C:\Users\cesar\source\repos\Mayor y menor\Mayor y menor\bin\Debug\Mayor y menor.exe.config
+C:\Users\cesar\source\repos\Mayor y menor\Mayor y menor\bin\Debug\Mayor y menor.exe
+C:\Users\cesar\source\repos\Mayor y menor\Mayor y menor\bin\Debug\Mayor y menor.pdb
+C:\Users\cesar\source\repos\Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.csprojResolveAssemblyReference.cache
+C:\Users\cesar\source\repos\Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.exe
+C:\Users\cesar\source\repos\Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.pdb
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\1.-Mayor y menor\Mayor y menor\bin\Debug\Mayor y menor.exe.config
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\1.-Mayor y menor\Mayor y menor\bin\Debug\Mayor y menor.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\1.-Mayor y menor\Mayor y menor\bin\Debug\Mayor y menor.pdb
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\1.-Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.csprojResolveAssemblyReference.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\1.-Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\1.-Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\1.-Mayor y menor\Mayor y menor\obj\Debug\Mayor y menor.pdb

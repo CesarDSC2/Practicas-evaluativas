@@ -1,0 +1,7 @@
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\8.-Palíndromo\8.-Palíndromo\bin\Debug\8.-Palíndromo.exe.config
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\8.-Palíndromo\8.-Palíndromo\bin\Debug\8.-Palíndromo.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\8.-Palíndromo\8.-Palíndromo\bin\Debug\8.-Palíndromo.pdb
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\8.-Palíndromo\8.-Palíndromo\obj\Debug\8.-Palíndromo.csprojResolveAssemblyReference.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\8.-Palíndromo\8.-Palíndromo\obj\Debug\8.-Palíndromo.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\8.-Palíndromo\8.-Palíndromo\obj\Debug\8.-Palíndromo.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\8.-Palíndromo\8.-Palíndromo\obj\Debug\8.-Palíndromo.pdb

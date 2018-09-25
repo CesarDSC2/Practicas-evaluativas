@@ -1,0 +1,7 @@
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\2.- Sucesión inversa\2.- Sucesión inversa\bin\Debug\2.- Sucesión inversa.exe.config
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\2.- Sucesión inversa\2.- Sucesión inversa\bin\Debug\2.- Sucesión inversa.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\2.- Sucesión inversa\2.- Sucesión inversa\bin\Debug\2.- Sucesión inversa.pdb
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\2.- Sucesión inversa\2.- Sucesión inversa\obj\Debug\2.- Sucesión inversa.csprojResolveAssemblyReference.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\2.- Sucesión inversa\2.- Sucesión inversa\obj\Debug\2.- Sucesión inversa.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\2.- Sucesión inversa\2.- Sucesión inversa\obj\Debug\2.- Sucesión inversa.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\2.- Sucesión inversa\2.- Sucesión inversa\obj\Debug\2.- Sucesión inversa.pdb

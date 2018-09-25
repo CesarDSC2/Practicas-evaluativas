@@ -1,0 +1,6 @@
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\7.-Numeros random\7.-Numeros random\bin\Debug\7.-Numeros random.exe.config
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\7.-Numeros random\7.-Numeros random\bin\Debug\7.-Numeros random.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\7.-Numeros random\7.-Numeros random\bin\Debug\7.-Numeros random.pdb
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\7.-Numeros random\7.-Numeros random\obj\Debug\7.-Numeros random.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\7.-Numeros random\7.-Numeros random\obj\Debug\7.-Numeros random.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\7.-Numeros random\7.-Numeros random\obj\Debug\7.-Numeros random.pdb

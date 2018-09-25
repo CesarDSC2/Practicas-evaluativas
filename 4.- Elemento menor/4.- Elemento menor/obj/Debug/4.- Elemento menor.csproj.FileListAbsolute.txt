@@ -1,0 +1,7 @@
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\4.- Elemento menor\4.- Elemento menor\bin\Debug\4.- Elemento menor.exe.config
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\4.- Elemento menor\4.- Elemento menor\bin\Debug\4.- Elemento menor.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\4.- Elemento menor\4.- Elemento menor\bin\Debug\4.- Elemento menor.pdb
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\4.- Elemento menor\4.- Elemento menor\obj\Debug\4.- Elemento menor.csprojResolveAssemblyReference.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\4.- Elemento menor\4.- Elemento menor\obj\Debug\4.- Elemento menor.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\4.- Elemento menor\4.- Elemento menor\obj\Debug\4.- Elemento menor.exe
+C:\Users\cesar\OneDrive\Documentos\1Tec\3C\Estructura de datos\1 Unidad Examen\4.- Elemento menor\4.- Elemento menor\obj\Debug\4.- Elemento menor.pdb
